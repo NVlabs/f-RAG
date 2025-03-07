@@ -7,9 +7,9 @@ This is the official code repository for the paper titled [Molecule Generation w
 </p>
 
 ## Contribution
-+ We introduce *f*-RAG, a novel molecular generative framework that combines fragment-based drug discovery (FBDD) and retrieval-augmented generation (RAG).
++ We introduce $f$-RAG, a novel molecular generative framework that combines fragment-based drug discovery (FBDD) and retrieval-augmented generation (RAG).
 + We propose a retrieval augmentation strategy that operates at the fragment level with two types of fragments: *hard fragments* and *soft fragments*, allowing fine-grained guidance to achieve an improved exploration-exploitation trade-off and generate high-quality drug candidates.
-+ Through extensive experiments, we demonstrate the effectiveness of *f*-RAG in various drug discovery tasks that simulate real-world scenarios.
++ Through extensive experiments, we demonstrate the effectiveness of $f$-RAG in various drug discovery tasks that simulate real-world scenarios.
 
 ## Installation
 Clone this repository:
@@ -27,7 +27,7 @@ conda install -c conda-forge openbabel  # required to run the docking experiment
 ```
 
 ## Training Fragment Injection Module
-The lightweight fragment injection module is the only part that requires training in *f*-RAG.<br>
+The lightweight fragment injection module is the only part that requires training in $f$-RAG.<br>
 We provide the [data](https://docs.google.com/uc?export=download&id=1zWM5WY0mQEFUB0xIg4D7Ba_e4oifR2i7) to train the model and evaluate the results. Download and place the `data` folder in this directory.<br>
 
 To train the module from scratch, first run the following command to preprocess the data:

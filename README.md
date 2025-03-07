@@ -88,12 +88,8 @@ python eval.py ${file}
 ```
 
 ## License
-Copyright @ 2025, NVIDIA Corporation. All rights reserved.
-
-This work is made available under the Nvidia Source Code License-NC.
-
-The model checkpoints are shared under [`Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)`](https://creativecommons.org/licenses/by-nc-sa/4.0/). If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
+Copyright @ 2025, NVIDIA Corporation. All rights reserved.<br>
+This work is made available under the Nvidia Source Code License-NC.<br>
 For business inquiries, please visit our website and submit the form: [NVIDIA Research Licensing](https://www.nvidia.com/en-us/research/inquiries/).
 
 ## Citation

@@ -1,0 +1,10 @@
+injection_model_path: ../../ckpt/model.safetensors
+mol_population_size: 50
+frag_population_size: 50
+mutation_rate: 0.1
+num_ga: 10
+num_safe: 10
+min_frag_size: 10
+max_frag_size: 16
+min_mol_size: 20
+max_mol_size: 50

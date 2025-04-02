@@ -7,7 +7,7 @@
 # https://github.com/datamol-io/safe/blob/main/safe/trainer/data_utils.py
 # https://github.com/datamol-io/safe/blob/main/safe/trainer/collator.py
 #
-# The license for this can be found in license/LICENSE_SAFE.
+# The license for this can be found in license_thirdparty/LICENSE_SAFE.
 # The modifications to this file are subject to the same license.
 # ---------------------------------------------------------------
 

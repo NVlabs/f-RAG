@@ -6,7 +6,7 @@
 # Source:
 # https://github.com/datamol-io/safe/blob/main/safe/sample.py
 #
-# The license for this can be found in license/LICENSE_SAFE.
+# The license for this can be found in license_thirdparty/LICENSE_SAFE.
 # The modifications to this file are subject to the same license.
 # ---------------------------------------------------------------
 

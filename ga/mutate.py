@@ -6,7 +6,7 @@
 # Source:
 # https://github.com/jensengroup/GB_GA/blob/master/mutate.py
 #
-# The license for this can be found in license/LICENSE_GA.
+# The license for this can be found in license_thirdparty/LICENSE_GA.
 # ---------------------------------------------------------------
 
 import random

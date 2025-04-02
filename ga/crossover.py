@@ -6,7 +6,7 @@
 # Source:
 # https://github.com/jensengroup/GB_GA/blob/master/crossover.py
 #
-# The license for this can be found in license/LICENSE_GA.
+# The license for this can be found in license_thirdparty/LICENSE_GA.
 # The modifications to this file are subject to the same license.
 # ---------------------------------------------------------------
 

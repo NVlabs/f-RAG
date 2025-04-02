@@ -6,7 +6,7 @@
 # Source:
 # https://github.com/SeulLee05/MOOD/blob/main/scorer/docking.py
 #
-# The license for this can be found in license/LICENSE_MOOD.
+# The license for this can be found in license_thirdparty/LICENSE_MOOD.
 # The modifications to this file are subject to the same license.
 # ---------------------------------------------------------------
 

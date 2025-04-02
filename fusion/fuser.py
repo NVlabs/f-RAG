@@ -6,7 +6,7 @@
 # Source:
 # https://github.com/MolecularAI/MolBART/blob/master/megatron_molbart/megatron_bart.py
 #
-# The license for this can be found in license/LICENSE_MOLBART.
+# The license for this can be found in license_thirdparty/LICENSE_MOLBART.
 # The modifications to this file are subject to the same license.
 # ---------------------------------------------------------------
 

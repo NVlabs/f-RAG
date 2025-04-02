@@ -6,7 +6,7 @@
 # Source:
 # https://github.com/wenhao-gao/mol_opt/blob/main/optimizer.py
 #
-# The license for this can be found in license/LICENSE_PMO.
+# The license for this can be found in license_thirdparty/LICENSE_PMO.
 # The modifications to this file are subject to the same license.
 # ---------------------------------------------------------------
 
